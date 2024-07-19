@@ -20,7 +20,7 @@ Le dépôt est structuré comme suit :
    ```bash
    git clone https://github.com/MarieBertrand/pgpw-excercise-cour4.git
    
-2. Créer une branche personnelle (nommée comme vous le coulez).
+2. Créer une branche personnelle (nommée comme vous le voulez).
     ```bash
    git branch Nom-de-votre-branche
 
@@ -28,18 +28,18 @@ Le dépôt est structuré comme suit :
     ```bash
    git checkout Nom-de-votre-branche
 
-3. Ajouter une ligne dans le fichier `epicerie.txt` avec la structure qui suit:
-- Numéro attribué - Initiale de votre prénom et votre nom - Item d'épicerie
+4. Ajouter une ligne dans le fichier `epicerie.txt` avec la structure qui suit:
+    `Numéro attribué - Initiale de votre prénom et votre nom - Item d'épicerie `
 
-4. Un fois vos modifications terminées, vérifier que le dépôt distant n'a pas été modifié.
+5. Une fois vos modifications terminées, vérifier que le dépôt distant n'a pas été modifié.
     ```bash
-   git pull origin master
+   git pull origin main
 
-5. Effectuer les correction au besoins (merge)
+5. Effectuer les corrections au besoins (merge)
 
 6. Pousser vos modifications sur le dépôt.
     ```bash
-   git push origin master
+   git push origin main
 
 6. Voilà, au prochain!
 
