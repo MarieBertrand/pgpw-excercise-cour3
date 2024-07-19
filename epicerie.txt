@@ -1,6 +1,7 @@
 Légumes et fruits
 #1 - MB - Bananes
 #11 - FC - Bière
+#12 -PMM - Avocat
 
 
 Produits céréaliers
