@@ -6,10 +6,11 @@ Produits céréaliers
 
 
 Lait et substituts
-
+#4 - AM - Fromages
 
 Viandes et substituts
-
+#3 - CL - Tofu
 
 Autres aliments
+2.EB - Fraises
 #5 - MdB - Sorbet
