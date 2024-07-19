@@ -46,7 +46,3 @@ Le dépôt est structuré comme suit :
 
 ## Auteur
 Ce projet a été créé par Marie Bertrand. Si vous avez des questions, vous pouvez me contacter à [mabertrand@cstj.qc.ca].
-
-
-
-
