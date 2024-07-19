@@ -10,6 +10,7 @@ Lait et substituts
 
 Viandes et substituts
 #3 - CL - Tofu
+#8 - NF - Tempeh
 
 Autres aliments
 #7 - ATP - Quille de Wildcat
