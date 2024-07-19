@@ -1,4 +1,4 @@
-# Épicerie : Exercices d'Apprentissage du cours #4
+# Épicerie : Exercices d'apprentissage du cours #4
 
 ## Description
 
