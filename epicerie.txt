@@ -1,22 +1,9 @@
 Légumes et fruits
-#1 - MB - Bananes
-#11 - FC - Bière
-#12 -PMM - Avocat
-
 
 Produits céréaliers
-#9 - LTD - Frootloops
 
 Lait et substituts
-#4 - AM - Fromages
 
 Viandes et substituts
-#3 - CL - Tofu
-#8 - NF - Tempeh
 
 Autres aliments
-#7 - ATP - Quille de Wildcat
-2.EB - Fraises
-#5 - MdB - Sorbet
-#6 - FG - Pizza
-#10 Poulet et Riz   --Wanil
