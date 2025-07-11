@@ -1,4 +1,4 @@
-# Épicerie : Exercices d'apprentissage du cours #4
+# Épicerie : Exercices d'apprentissage du cours #3
 
 ## Description
 
@@ -16,7 +16,7 @@ Le dépôt est structuré comme suit :
 
 
 ## Instructions
-1. Clonez ce dépôt sur votre machine locale (pas sur OneDrive!!) en utilisant la commande :
+1. Clonez ce dépôt sur votre pc en local (pas sur OneDrive!!) en utilisant la commande :
    ```bash
    git clone https://github.com/MarieBertrand/pgpw-excercise-cour4.git
    
