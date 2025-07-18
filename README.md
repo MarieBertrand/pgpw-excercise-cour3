@@ -16,7 +16,6 @@ Le dépôt est structuré comme suit :
 
 
 ## Instructions 
-Vous pouvez utiliser SourceTree ou bien la ligne de commande pour faire cet exercice. 
 
 1. Clonez ce dépôt sur votre pc en local (pas sur OneDrive!!).
    
