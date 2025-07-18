@@ -15,33 +15,25 @@ Le dépôt est structuré comme suit :
 - `epicerie.txt` : Le fichier qui sera modifié lors de l'exercice.
 
 
-## Instructions
-1. Clonez ce dépôt sur votre pc en local (pas sur OneDrive!!) en utilisant la commande :
-   ```bash
-   git clone https://github.com/MarieBertrand/pgpw-exercice-cour03.git
+## Instructions 
+Vous pouvez utiliser SourceTree ou bien la ligne de commande pour faire cet exercice. 
+
+1. Clonez ce dépôt sur votre pc en local (pas sur OneDrive!!).
    
 2. Créer une branche personnelle (nommée comme vous le voulez).
-    ```bash
-   git branch Nom-de-votre-branche
 
 3. Déplacer vous sur la branche que vous venez de créer.
-    ```bash
-   git checkout Nom-de-votre-branche
 
 4. Ajouter une ligne dans le fichier `epicerie.txt` avec la structure qui suit:
     `Numéro attribué - Initiale de votre prénom et votre nom - Item d'épicerie `
 
 5. Une fois vos modifications terminées, vérifier que le dépôt distant n'a pas été modifié.
-    ```bash
-   git pull origin main
 
 5. Effectuer les corrections au besoin (merge)
 
 6. Pousser vos modifications sur le dépôt.
-    ```bash
-   git push origin main
 
-6. Voilà, au prochain!
+7. Voilà, au prochain!
 
 
 ## Auteur
