@@ -18,7 +18,7 @@ Le dépôt est structuré comme suit :
 ## Instructions
 1. Clonez ce dépôt sur votre pc en local (pas sur OneDrive!!) en utilisant la commande :
    ```bash
-   git clone https://github.com/MarieBertrand/pgpw-exercise-cour3.git
+   git clone https://github.com/MarieBertrand/pgpw-exercice-cour03.git
    
 2. Créer une branche personnelle (nommée comme vous le voulez).
     ```bash
