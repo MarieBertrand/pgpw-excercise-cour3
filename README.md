@@ -1,10 +1,10 @@
-# Épicerie : Exercices d'apprentissage du cours #3
+# Épicerie : Exercice d'apprentissage du cours #3
 
 ## Description
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  
 
-Ce dépôt contient un excercise destinés à l'apprentissage de git vu dans le cours de "Planification ​
+Ce dépôt contient un exercice destiné à l'apprentissage de git vu dans le cours de "Planification ​
 et gestion de projet web". L'exercice est conçu pour renforcer les concepts enseignés et fournir une pratique.
 
 
@@ -12,13 +12,13 @@ et gestion de projet web". L'exercice est conçu pour renforcer les concepts ens
 Le dépôt est structuré comme suit :
 
 - `README.md` : Ce fichier, qui contient une description générale du projet et des instructions pour commencer.
-- `epicerie.txt` : Le fichier qui sera modifié lors de l'exercise.
+- `epicerie.txt` : Le fichier qui sera modifié lors de l'exercice.
 
 
 ## Instructions
 1. Clonez ce dépôt sur votre pc en local (pas sur OneDrive!!) en utilisant la commande :
    ```bash
-   git clone https://github.com/MarieBertrand/pgpw-excercise-cour4.git
+   git clone https://github.com/MarieBertrand/pgpw-exercise-cour3.git
    
 2. Créer une branche personnelle (nommée comme vous le voulez).
     ```bash
@@ -35,7 +35,7 @@ Le dépôt est structuré comme suit :
     ```bash
    git pull origin main
 
-5. Effectuer les corrections au besoins (merge)
+5. Effectuer les corrections au besoin (merge)
 
 6. Pousser vos modifications sur le dépôt.
     ```bash
